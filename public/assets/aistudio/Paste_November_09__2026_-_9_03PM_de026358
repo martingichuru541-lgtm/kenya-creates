@@ -1,0 +1,905 @@
+KENYA CREATES — NATIONAL CREATIVE & INNOVATION ECOSYSTEM
+EXISTING WEBSITE ENHANCEMENT, FEATURE EXPANSION & FULL FUNCTIONALITY IMPLEMENTATION
+You are working on my EXISTING Kenya Creates website inside Google AI Studio.
+THIS IS AN EXISTING PROJECT. DO NOT CREATE A NEW WEBSITE. DO NOT REBUILD IT. DO NOT REPLACE IT. ONLY ADD MISSING FEATURES, IMPROVE EXISTING FUNCTIONALITY AND COMPLETE INCOMPLETE WORKFLOWS.
+Kenya Creates is a department within KenyaOne — “Everything Kenya. One Platform. One AI.”
+Its purpose is to become Kenya's national digital platform for discovering, showcasing, supporting and commercialising Kenyan creativity, innovation, talent, research and projects.
+1. NON-NEGOTIABLE PRESERVATION RULES
+Before changing anything:
+Inspect the complete existing project, including its pages, components, code, database, authentication, APIs, backend functions and current workflows.
+Identify which features already exist, which are partially implemented, which are broken and which are missing.
+Create an internal implementation checklist.
+Reuse and improve existing components and infrastructure wherever possible.
+Add only features that are missing or incomplete.
+Do not duplicate existing features.
+Do not remove, rename, relocate, replace or redesign existing pages, sections, navigation, branding, working components or functionality.
+Do not change the existing KenyaOne integration, authentication, header, navigation or shared services.
+Do not introduce a separate login system if KenyaOne authentication already exists.
+Preserve all existing working data and user accounts.
+If an existing feature already works, retain it. If it is incomplete, finish it without destroying its existing implementation.
+2. KENYA CREATES — EXPAND THE PLATFORM
+Add missing capabilities across these areas, integrating them into the existing website rather than creating a disconnected product.
+A. Creator and Innovator Profiles
+Enable users to create rich public profiles containing:
+Name or organisation name.
+Profile photograph or brand logo.
+Biography and professional introduction.
+County and town.
+Skills, expertise and interests.
+Portfolio and project history.
+Social and professional links.
+Awards, achievements and qualifications.
+Contact and collaboration preferences.
+Verification status.
+Support individuals, teams, registered businesses, universities, research groups, community organisations and diaspora creators.
+B. Project Submission and Showcase
+Create or complete a proper project submission workflow.
+Users should be able to:
+Submit a project, idea, invention, artwork, startup or community initiative.
+Add a title, description, category and location.
+Select one or more relevant counties.
+Upload images, videos, documents and prototype materials.
+Add a website or demonstration link.
+Describe the problem being solved.
+Explain the innovation or proposed solution.
+Specify the project's development stage.
+State what support they need.
+Add collaborators and team members.
+Save drafts and return later.
+Edit submissions where permitted.
+Track review and publication status.
+Project stages should include:
+Idea
+Research
+Concept
+Prototype
+Testing
+Early development
+Operational
+Growing
+Commercialised
+Submission categories should cover technology, agriculture, manufacturing, education, health, climate, energy, arts, music, fashion, film, design, research, science, engineering, tourism, social impact, community projects and other relevant fields.
+C. National Project Discovery
+Make it possible to discover Kenyan projects through meaningful filters:
+County and town.
+Category and industry.
+Project development stage.
+Individual or organisation.
+Skills and expertise.
+Funding or investment needs.
+Collaboration opportunities.
+Recently published.
+Most viewed.
+Most followed.
+Featured and verified projects.
+Include keyword search, sorting, pagination and useful empty states.
+Do not make popularity the only measure of project quality.
+D. Investor and Funding Connections
+Build a genuine connection system between creators and potential supporters.
+Include:
+Investor and funder profiles.
+Funding opportunity listings.
+Grant and competition opportunities.
+Startup investment opportunities.
+Project funding requests.
+Sponsorship requests.
+Donation and community-support opportunities.
+Investor interest submissions.
+Private introductions.
+Funding application tracking.
+Project due-diligence information.
+Secure document-sharing permissions.
+Funding opportunity deadlines.
+Creators should be able to specify the type of support they need, such as funding, equipment, expertise, mentorship, distribution, manufacturing or partnerships.
+Do not pretend an investment has been secured simply because someone clicked an interest button.
+E. Collaboration and Talent Network
+Add a working system where people can find one another and collaborate.
+Include:
+Find a co-founder.
+Find a developer.
+Find an engineer.
+Find an artist or designer.
+Find a researcher.
+Find a manufacturer.
+Find a mentor.
+Find a business partner.
+Find a distributor.
+Find a project team.
+Publish collaboration requests.
+Send and accept collaboration invitations.
+Manage project team members.
+Share project updates with authorised collaborators.
+Include permission controls so private project information is not automatically visible to everyone.
+F. Mentorship and Professional Support
+Create a mentor directory and mentorship workflow.
+Include:
+Mentor profiles.
+Areas of expertise.
+Availability.
+Mentorship requests.
+Appointment requests.
+Mentorship status.
+Session history.
+Feedback and reviews.
+University and industry expert participation.
+G. Kenyan Universities and Research
+Create a research and academic innovation connection.
+Include:
+University research showcases.
+Student innovation projects.
+Research publications and summaries.
+Academic project portfolios.
+Research collaboration requests.
+University innovation challenges.
+Patent and intellectual property information.
+Researcher profiles.
+Industry-university partnership opportunities.
+Where an institution has an official website, provide a verified external link. Do not invent university partnerships or imply official endorsement.
+H. Competitions, Challenges and Awards
+Add a national innovation and creative competition system.
+Include:
+National innovation challenges.
+County-level competitions.
+University competitions.
+Startup pitch competitions.
+Creative arts competitions.
+Student project challenges.
+Public voting where appropriate.
+Expert judging.
+Submission deadlines.
+Competition rules.
+Winner announcements.
+Digital certificates and achievement records.
+Clearly distinguish public voting from verified expert judging.
+I. Creator Business and Commercialisation
+Help creators turn projects into real businesses.
+Include:
+Product and service showcases.
+Business opportunity profiles.
+Customer enquiries.
+Partnership requests.
+Product demonstration pages.
+Business readiness checklist.
+Commercialisation progress.
+Licensing enquiries.
+Manufacturing and distribution requests.
+Export opportunity connections.
+Link to the existing KenyaOne Shop where relevant.
+Do not create a duplicate marketplace if KenyaOne Shop already provides that service. Connect to the existing Shop infrastructure.
+J. Creator Community and Updates
+Build meaningful engagement around projects.
+Include:
+Follow creators and projects.
+Like and comment.
+Share project pages.
+Publish progress updates.
+Post milestones.
+Ask questions.
+Receive notifications.
+Report abuse or misleading content.
+Save projects to a personal collection.
+Create project collections.
+Use real accounts and real database records. Do not generate fake engagement.
+3. KENYAONE AI — CREATIVE INTELLIGENCE
+Integrate KenyaOne AI into Kenya Creates using the existing AI infrastructure wherever available.
+Add useful AI assistance for:
+Turning an early idea into a structured project proposal.
+Improving project descriptions.
+Creating a project development roadmap.
+Identifying possible collaborators.
+Recommending relevant funding opportunities.
+Preparing a pitch deck outline.
+Drafting a business plan.
+Suggesting potential markets.
+Identifying missing information in a submission.
+Translating content between English and Kiswahili.
+Summarising research documents.
+Helping creators prepare competition applications.
+Recommending relevant mentors and institutions.
+AI recommendations must be labelled as recommendations, not confirmed partnerships, funding or official approvals.
+Allow users to submit ideas through a guided AI conversation and convert the conversation into a structured draft proposal.
+4. USER DASHBOARDS
+Complete or add functional dashboards for:
+Creators
+My profile.
+My projects.
+Draft submissions.
+Review status.
+Followers.
+Collaboration invitations.
+Funding enquiries.
+Messages.
+Notifications.
+Analytics.
+Investors and organisations
+Organisation profile.
+Opportunities.
+Projects of interest.
+Creator enquiries.
+Introductions.
+Application pipeline.
+Saved projects.
+Mentors
+Mentor profile.
+Requests received.
+Accepted mentorships.
+Availability.
+Session management.
+Administrators
+Submission review.
+Verification requests.
+User management.
+Project moderation.
+Reports and complaints.
+Featured project management.
+Opportunity approvals.
+Competition management.
+Analytics.
+Audit logs.
+Platform configuration.
+Every dashboard must display real data belonging to the authenticated user or authorised administrator.
+5. TRUST, VERIFICATION AND INTELLECTUAL PROPERTY
+Introduce transparent status labels:
+Community Submitted
+Under Review
+Reviewed
+Identity Verified
+Organisation Verified
+Institution Verified
+Featured
+Do not label a project as verified merely because its creator has an account.
+Build:
+Identity and organisation verification workflows.
+Evidence upload and review.
+Reporting and moderation.
+Copyright and ownership declarations.
+Project confidentiality settings.
+Private document permissions.
+Consent before public display.
+Account security and access controls.
+Creators must retain control over whether sensitive documents, prototypes and unpublished ideas are public or private.
+Do not claim that platform submission automatically grants a patent, copyright registration or legal protection.
+6. PREMIUM VISUAL EXPERIENCE — PRESERVE THE EXISTING DESIGN
+Keep the current website's identity and structure.
+Improve visual quality only where needed, without replacing existing pages or working layouts.
+Use a premium, Kenyan-futuristic creative direction:
+Deep African Night.
+Kenyan Jade.
+Restrained gold accents.
+Digital blue highlights.
+Elegant typography.
+Refined glass surfaces.
+High-quality project imagery.
+Smooth transitions.
+Responsive layouts.
+Accessible contrast.
+If the existing project already includes the Vante-inspired scroll-driven 3D video-ribbon portfolio experience, preserve it and improve its integration with real project records. If it is missing, add it as an enhancement within the existing hero or showcase area without replacing the current website structure.
+Any 3D or animation must remain performant, mobile-friendly and accessible. Respect reduced-motion settings.
+7. REAL BACKEND AND DATABASE FUNCTIONALITY
+This is a functional platform, not a visual demonstration.
+Inspect the current architecture and connect new features to the existing backend.
+Create or extend appropriate data models for:
+User profiles.
+Creator organisations.
+Projects.
+Project media.
+Project categories.
+Counties.
+Project collaborators.
+Followers.
+Comments.
+Project updates.
+Funding opportunities.
+Funding applications.
+Investor interests.
+Mentorship requests.
+Collaboration invitations.
+Competitions.
+Competition submissions.
+Verification records.
+Notifications.
+Reports.
+Administrative actions.
+Use the existing database and authentication wherever possible. Do not create duplicate tables or disconnected user records.
+Implement real create, read, update and delete operations with appropriate ownership checks and role-based permissions.
+Validate uploaded files, protect private records, secure API endpoints and prevent users from editing another user's projects without permission.
+8. EVERY BUTTON MUST WORK
+Audit every visible button, link, menu, filter, form, card action and dashboard control.
+Examples:
+Submit Project must save a real submission.
+Save Draft must persist the draft.
+Follow must update the relationship.
+Collaborate must create an invitation.
+Apply must create an application.
+Contact must open a working communication flow.
+Upload must upload and store the actual file.
+Search must return matching records.
+Filters must change the displayed results.
+Approve must update the actual review status.
+Notifications must open the relevant record.
+Remove dead buttons and placeholder interactions. Do not display success messages unless the requested operation actually succeeds.
+9. NOTIFICATIONS AND COMMUNICATION
+Use existing KenyaOne notification and communication infrastructure.
+Notify users about:
+Submission received.
+Review status changed.
+Project approved or declined.
+New collaboration request.
+Invitation accepted.
+Funding enquiry received.
+Application status changed.
+New comment or question.
+Mentorship request.
+Competition deadline.
+Verification status.
+Respect user notification preferences and privacy.
+10. NATIONAL AND DIASPORA REACH
+Make Kenya Creates useful across all 47 Kenyan counties and to Kenyans living abroad.
+Support:
+County-based project discovery.
+Diaspora creator profiles.
+International collaboration.
+Global investor discovery.
+Cross-border business connections.
+Kenyan innovation showcases.
+English and Kiswahili interfaces.
+Mobile-first and low-bandwidth access.
+Do not restrict a creator to their county of origin or current residence.
+11. MONETISATION — BUILD THE FOUNDATION, NOT FAKE PAYMENTS
+Prepare legitimate monetisation capabilities:
+Optional premium creator accounts.
+Featured project placements.
+Organisation subscriptions.
+Sponsored innovation challenges.
+Approved event and competition partnerships.
+Professional creator services.
+Business and investor tools.
+Use existing KenyaOne payment integrations where available. Do not create a new wallet or duplicate payment system.
+Do not simulate payment success, subscriptions or payouts. Clearly identify any payment-provider integration that is still required.
+12. END-TO-END TESTING AND COMPLETION
+After implementation, test the actual workflows.
+At minimum, verify:
+A new user can sign in through existing KenyaOne authentication.
+A creator can complete a profile.
+A creator can submit a project with media.
+The project is saved in the database.
+An administrator can review and approve it.
+The approved project appears in public discovery.
+Search and filters return correct results.
+Another user can follow the creator.
+A user can send a collaboration invitation.
+A creator can receive and respond to funding enquiries.
+Mentorship requests work.
+Notifications open the correct records.
+Private documents remain private.
+Users cannot modify projects they do not own.
+Mobile layouts and accessibility work.
+Existing KenyaOne features still work exactly as before.
+Test success, failure, empty, loading and permission-denied states.
+Do not fabricate projects, investors, users, funding, followers, messages, analytics or verification records to make the website look busy. Use clearly labelled sample data only in a separate development/testing environment.
+13. FINAL IMPLEMENTATION REPORT
+When finished, provide:
+Existing features retained.
+New features successfully implemented.
+Existing features repaired.
+Database changes made.
+Backend and API integrations used.
+Features that require external credentials or services.
+Security and permission checks completed.
+End-to-end tests passed and failed.
+Remaining incomplete items.
+Do not claim that a feature is functional unless it has been tested against its real workflow.
+FINAL INSTRUCTION: KEEP MY EXISTING KENYA CREATES WEBSITE. DO NOT REBUILD IT. DO NOT REMOVE OR REPLACE ANYTHING. INSPECT FIRST, FILTER OUT FEATURES THAT ALREADY EXIST, ADD ONLY MISSING FEATURES, CONNECT EVERYTHING TO REAL BACKEND SERVICES AND MAKE EVERY NEW AND EXISTING WORKFLOW FUNCTION PROPERLY.
+Gemini 3.8 Flash
+Ran for 0s
+Quota limits exceeded
+KENYA CREATES — THE NATIONAL HOME OF KENYAN CREATIVITY
+You are modifying my EXISTING Kenya Creates project inside Google AI Studio.
+The website already exists. Your responsibility is to ADD NEW FEATURES to the existing project and make the entire experience genuinely functional.
+THE CENTRAL VISION
+Kenya Creates is the national digital exhibition of Kenyan creativity, talent, inventions, discoveries, artistic expression and achievements.
+It should give every Kenyan — whether living in a village, town, city, university, workplace or abroad — the opportunity to showcase what they have created to Kenya and the world.
+The platform must welcome ordinary citizens, children and young people through appropriate safeguards, students, artists, musicians, filmmakers, photographers, designers, inventors, engineers, researchers, writers, entrepreneurs and creative communities.
+It must never become exclusively a startup directory or investment platform. Its primary purpose is to showcase Kenyan creativity.
+CRITICAL PRESERVATION INSTRUCTIONS
+Inspect the entire existing project before editing.
+Retain every existing working page, feature, component, design element and workflow.
+Add only features that are missing.
+Never create a second Kenya Creates website.
+Never replace the current navigation, header, branding or existing architecture.
+Reuse the current authentication, database, storage, AI and backend integrations.
+Avoid duplicating existing features.
+Keep the existing website's identity and design language.
+Do not use fake creator profiles, fake artwork, fake followers, fake competitions or fabricated achievements.
+Test every newly implemented function.
+ADD THESE FEATURE COLLECTIONS
+1. Kenya's National Creativity Gallery
+Build a rich discovery experience for Kenyan creations.
+Include:
+47 Counties Creativity Explorer.
+Interactive county-based gallery.
+Featured Creations.
+Emerging Kenyan Talent.
+Young Creators.
+Rural Creativity.
+Diaspora Creations.
+Traditional Kenyan Art.
+Modern Kenyan Creativity.
+Historic Kenyan Achievements.
+Weekly and monthly creator showcases.
+Visitors should be able to explore real submitted work, open creator profiles and discover related creations.
+2. The Kenyan Inventions and Discoveries Archive
+Create a specialised exhibition for:
+Inventions.
+Prototypes.
+Engineering projects.
+Robotics.
+Scientific discoveries.
+Agricultural innovations.
+Environmental solutions.
+Renewable energy inventions.
+Student inventions.
+Indigenous knowledge.
+Research projects.
+Technological breakthroughs.
+Every invention should have its own detailed presentation, creator information, images, demonstrations, development stage and optional supporting documents.
+Do not imply that an invention is scientifically validated, patented or commercially successful unless verified evidence supports that claim.
+3. The Digital Creative Exhibition Studio
+Allow creators to build beautiful online exhibitions.
+Include:
+Multi-image galleries.
+Video demonstrations.
+Audio portfolios.
+Artwork collections.
+Photography exhibitions.
+360-degree media where supported.
+Interactive project presentations.
+Virtual exhibition rooms.
+Exhibition descriptions.
+Creator introduction videos.
+Behind-the-scenes content.
+Exhibition sharing links.
+4. Kenya's Talent Discovery Network
+Build advanced talent discovery.
+Allow visitors to search for:
+Artists.
+Musicians.
+Singers.
+Dancers.
+Actors.
+Filmmakers.
+Photographers.
+Writers.
+Poets.
+Fashion designers.
+Architects.
+Graphic designers.
+Animators.
+Software developers.
+Engineers.
+Scientists.
+Researchers.
+Inventors.
+Craftspeople.
+Other creative professionals.
+Add skill filters, county filters, availability, experience, portfolio links and collaboration preferences.
+5. Kenya Creates National Competitions
+Create an operational competition platform.
+Include:
+County creativity competitions.
+National invention challenges.
+School creativity competitions.
+University innovation challenges.
+National photography awards.
+Film and music competitions.
+Art exhibitions and competitions.
+Creative writing competitions.
+Design competitions.
+People's Choice Awards.
+Expert judging.
+Competition registration.
+Submission deadlines.
+Competition rules.
+Winner announcements.
+Certificates and achievement records.
+Make voting, judging and results transparent. Prevent duplicate and fraudulent votes.
+6. Creator Identity and Digital Portfolio
+Every creator should have a professional profile with:
+Biography.
+County.
+Creative disciplines.
+Skills.
+Portfolio.
+Published creations.
+Achievements.
+Awards.
+Exhibitions.
+Collaborations.
+Contact preferences.
+Followers.
+Shareable public portfolio.
+Provide privacy settings and age-appropriate controls for minors.
+7. Kenya Creates AI Studio
+Integrate the existing KenyaOne AI.
+Add:
+AI-assisted creation descriptions.
+Automatic category suggestions.
+Portfolio writing assistance.
+Kiswahili and English translation.
+Project storytelling assistance.
+Exhibition description generation.
+Creator recommendations.
+Collaboration matching.
+Competition discovery.
+Accessibility descriptions for uploaded media.
+Creative development suggestions.
+Creator profile improvement suggestions.
+AI must not falsely claim ownership, originality, patent status, verification or awards.
+8. Global Kenyan Creativity
+Build international discovery.
+Include:
+Kenyan diaspora exhibitions.
+International creator connections.
+Global creative collaborations.
+International exhibition opportunities.
+Kenyan art discovery for international audiences.
+International creative competitions.
+Global talent enquiries.
+Kenyan cultural exhibitions abroad.
+Support international visitors and accessible sharing.
+9. Creator Collaboration and Opportunities
+Allow creators to:
+Receive collaboration requests.
+Find creative partners.
+Find performers.
+Find production teams.
+Receive commissions and enquiries.
+Connect with galleries and exhibition organisers.
+Connect with schools and universities.
+Connect with companies.
+Find mentors.
+Showcase work for potential customers.
+Keep business and funding opportunities as optional supporting services, not the centre of the platform.
+10. The Kenya Creates Annual National Exhibition
+Build the technical foundation for an annual national creativity exhibition.
+Include:
+County exhibition collections.
+National finalist galleries.
+Featured inventions.
+Featured artists.
+Student showcases.
+Public exhibition schedules.
+Digital exhibition halls.
+Award categories.
+Winners archive.
+Annual historical records.
+Do not claim a physical exhibition or event exists until an administrator has actually created and published it.
+11. Creator Storytelling
+Give every creator the opportunity to tell the story behind their work.
+Include:
+What inspired the creation?
+What problem does it solve?
+How was it made?
+What challenges were encountered?
+What materials or technology were used?
+What makes it unique?
+What does the creator hope to achieve next?
+Allow creators to publish updates and milestones.
+12. National Creativity Intelligence
+Give administrators real platform analytics:
+Number of submitted creations.
+Number of active creators.
+County participation.
+Categories represented.
+New inventions submitted.
+Most viewed exhibitions.
+Most followed creators.
+Competition participation.
+International visitors.
+Creator engagement.
+Submission approval rates.
+Use actual database records and clearly define analytics metrics.
+FUNCTIONAL REQUIREMENTS
+Every feature must connect to real backend functionality.
+Implement:
+Real creator registration through existing KenyaOne authentication.
+Real profile creation and editing.
+Real creation submissions.
+Secure media uploads.
+Real exhibition publishing.
+Search and filtering.
+Real creator following.
+Real collaboration requests.
+Real competition submissions.
+Real voting and judging where enabled.
+Real notifications.
+Real moderation and administrator approval.
+Real privacy and ownership permissions.
+Use existing database tables and APIs where possible. Only create additional data models when required.
+QUALITY REQUIREMENTS
+The finished website should feel like a national cultural institution combined with a modern digital creative platform.
+Make it:
+Visually exceptional.
+Fast.
+Mobile responsive.
+Accessible.
+Easy to navigate.
+Suitable for international visitors.
+Easy for ordinary Kenyans to use.
+Secure.
+Scalable.
+Do not make the experience dependent on expensive animations or high-speed internet.
+FINAL TEST
+Test the complete creator journey:
+A Kenyan opens Kenya Creates → creates a profile → uploads an invention, artwork or creative project → adds its story → submits it → receives a review notification → administrator reviews it → approves it → the work becomes discoverable in the national gallery → visitors explore it → people follow the creator or make a collaboration enquiry.
+Test the competition journey and exhibition journey as well.
+Produce a final report showing:
+Features already present and preserved.
+New features added.
+Features repaired.
+Backend and database changes.
+External integrations still needed.
+Tests completed.
+Remaining problems.
+KENYA CREATES MUST BECOME THE DIGITAL SHOWCASE OF WHAT KENYANS CAN IMAGINE, INVENT, DESIGN, BUILD, WRITE, PERFORM AND ACHIEVE. ADD TO THE EXISTING WEBSITE ONLY. DO NOT REBUILD IT. MAKE THE FEATURES REAL AND FUNCTIONAL.
+Gemini 3.8 Flash
+Ran for 7m 54s
+
+Action history
+Here are key actions taken for the app:
+
+Edited 3 files
+src/types.ts
+src/data/seedData.ts
+src/services/storageService.ts
+Quota limits exceeded
+Checkpoint
+KENYA CREATES — THE NATIONAL HOME OF KENYAN CREATIVITY
+You are modifying my EXISTING Kenya Creates project inside Google AI Studio.
+The website already exists. Your responsibility is to ADD NEW FEATURES to the existing project and make the entire experience genuinely functional.
+THE CENTRAL VISION
+Kenya Creates is the national digital exhibition of Kenyan creativity, talent, inventions, discoveries, artistic expression and achievements.
+It should give every Kenyan — whether living in a village, town, city, university, workplace or abroad — the opportunity to showcase what they have created to Kenya and the world.
+The platform must welcome ordinary citizens, children and young people through appropriate safeguards, students, artists, musicians, filmmakers, photographers, designers, inventors, engineers, researchers, writers, entrepreneurs and creative communities.
+It must never become exclusively a startup directory or investment platform. Its primary purpose is to showcase Kenyan creativity.
+CRITICAL PRESERVATION INSTRUCTIONS
+Inspect the entire existing project before editing.
+Retain every existing working page, feature, component, design element and workflow.
+Add only features that are missing.
+Never create a second Kenya Creates website.
+Never replace the current navigation, header, branding or existing architecture.
+Reuse the current authentication, database, storage, AI and backend integrations.
+Avoid duplicating existing features.
+Keep the existing website's identity and design language.
+Do not use fake creator profiles, fake artwork, fake followers, fake competitions or fabricated achievements.
+Test every newly implemented function.
+ADD THESE FEATURE COLLECTIONS
+Kenya's National Creativity Gallery
+Build a rich discovery experience for Kenyan creations.
+Include:
+47 Counties Creativity Explorer.
+Interactive county-based gallery.
+Featured Creations.
+Emerging Kenyan Talent.
+Young Creators.
+Rural Creativity.
+Diaspora Creations.
+Traditional Kenyan Art.
+Modern Kenyan Creativity.
+Historic Kenyan Achievements.
+Weekly and monthly creator showcases.
+Visitors should be able to explore real submitted work, open creator profiles and discover related creations.
+The Kenyan Inventions and Discoveries Archive
+Create a specialised exhibition for:
+Inventions.
+Prototypes.
+Engineering projects.
+Robotics.
+Scientific discoveries.
+Agricultural innovations.
+Environmental solutions.
+Renewable energy inventions.
+Student inventions.
+Indigenous knowledge.
+Research projects.
+Technological breakthroughs.
+Every invention should have its own detailed presentation, creator information, images, demonstrations, development stage and optional supporting documents.
+Do not imply that an invention is scientifically validated, patented or commercially successful unless verified evidence supports that claim.
+The Digital Creative Exhibition Studio
+Allow creators to build beautiful online exhibitions.
+Include:
+Multi-image galleries.
+Video demonstrations.
+Audio portfolios.
+Artwork collections.
+Photography exhibitions.
+360-degree media where supported.
+Interactive project presentations.
+Virtual exhibition rooms.
+Exhibition descriptions.
+Creator introduction videos.
+Behind-the-scenes content.
+Exhibition sharing links.
+Kenya's Talent Discovery Network
+Build advanced talent discovery.
+Allow visitors to search for:
+Artists.
+Musicians.
+Singers.
+Dancers.
+Actors.
+Filmmakers.
+Photographers.
+Writers.
+Poets.
+Fashion designers.
+Architects.
+Graphic designers.
+Animators.
+Software developers.
+Engineers.
+Scientists.
+Researchers.
+Inventors.
+Craftspeople.
+Other creative professionals.
+Add skill filters, county filters, availability, experience, portfolio links and collaboration preferences.
+Kenya Creates National Competitions
+Create an operational competition platform.
+Include:
+County creativity competitions.
+National invention challenges.
+School creativity competitions.
+University innovation challenges.
+National photography awards.
+Film and music competitions.
+Art exhibitions and competitions.
+Creative writing competitions.
+Design competitions.
+People's Choice Awards.
+Expert judging.
+Competition registration.
+Submission deadlines.
+Competition rules.
+Winner announcements.
+Certificates and achievement records.
+Make voting, judging and results transparent. Prevent duplicate and fraudulent votes.
+Creator Identity and Digital Portfolio
+Every creator should have a professional profile with:
+Biography.
+County.
+Creative disciplines.
+Skills.
+Portfolio.
+Published creations.
+Achievements.
+Awards.
+Exhibitions.
+Collaborations.
+Contact preferences.
+Followers.
+Shareable public portfolio.
+Provide privacy settings and age-appropriate controls for minors.
+Kenya Creates AI Studio
+Integrate the existing KenyaOne AI.
+Add:
+AI-assisted creation descriptions.
+Automatic category suggestions.
+Portfolio writing assistance.
+Kiswahili and English translation.
+Project storytelling assistance.
+Exhibition description generation.
+Creator recommendations.
+Collaboration matching.
+Competition discovery.
+Accessibility descriptions for uploaded media.
+Creative development suggestions.
+Creator profile improvement suggestions.
+AI must not falsely claim ownership, originality, patent status, verification or awards.
+Global Kenyan Creativity
+Build international discovery.
+Include:
+Kenyan diaspora exhibitions.
+International creator connections.
+Global creative collaborations.
+International exhibition opportunities.
+Kenyan art discovery for international audiences.
+International creative competitions.
+Global talent enquiries.
+Kenyan cultural exhibitions abroad.
+Support international visitors and accessible sharing.
+Creator Collaboration and Opportunities
+Allow creators to:
+Receive collaboration requests.
+Find creative partners.
+Find performers.
+Find production teams.
+Receive commissions and enquiries.
+Connect with galleries and exhibition organisers.
+Connect with schools and universities.
+Connect with companies.
+Find mentors.
+Showcase work for potential customers.
+Keep business and funding opportunities as optional supporting services, not the centre of the platform.
+The Kenya Creates Annual National Exhibition
+Build the technical foundation for an annual national creativity exhibition.
+Include:
+County exhibition collections.
+National finalist galleries.
+Featured inventions.
+Featured artists.
+Student showcases.
+Public exhibition schedules.
+Digital exhibition halls.
+Award categories.
+Winners archive.
+Annual historical records.
+Do not claim a physical exhibition or event exists until an administrator has actually created and published it.
+Creator Storytelling
+Give every creator the opportunity to tell the story behind their work.
+Include:
+What inspired the creation?
+What problem does it solve?
+How was it made?
+What challenges were encountered?
+What materials or technology were used?
+What makes it unique?
+What does the creator hope to achieve next?
+Allow creators to publish updates and milestones.
+National Creativity Intelligence
+Give administrators real platform analytics:
+Number of submitted creations.
+Number of active creators.
+County participation.
+Categories represented.
+New inventions submitted.
+Most viewed exhibitions.
+Most followed creators.
+Competition participation.
+International visitors.
+Creator engagement.
+Submission approval rates.
+Use actual database records and clearly define analytics metrics.
+FUNCTIONAL REQUIREMENTS
+Every feature must connect to real backend functionality.
+Implement:
+Real creator registration through existing KenyaOne authentication.
+Real profile creation and editing.
+Real creation submissions.
+Secure media uploads.
+Real exhibition publishing.
+Search and filtering.
+Real creator following.
+Real collaboration requests.
+Real competition submissions.
+Real voting and judging where enabled.
+Real notifications.
+Real moderation and administrator approval.
+Real privacy and ownership permissions.
+Use existing database tables and APIs where possible. Only create additional data models when required.
+QUALITY REQUIREMENTS
+The finished website should feel like a national cultural institution combined with a modern digital creative platform.
+Make it:
+Visually exceptional.
+Fast.
+Mobile responsive.
+Accessible.
+Easy to navigate.
+Suitable for international visitors.
+Easy for ordinary Kenyans to use.
+Secure.
+Scalable.
+Do not make the experience dependent on expensive animations or high-speed internet.
+FINAL TEST
+Test the complete creator journey:
+A Kenyan opens Kenya Creates → creates a profile → uploads an invention, artwork or creative project → adds its story → submits it → receives a review notification → administrator reviews it → approves it → the work becomes discoverable in the national gallery → visitors explore it → people follow the creator or make a collaboration enquiry.
+Test the competition journey and exhibition journey as well.
+Produce a final report showing:
+Features already present and preserved.
+New features added.
+Features repaired.
+Backend and database changes.
+External integrations still needed.
+Tests completed.
+Remaining problems.
+KENYA CREATES MUST BECOME THE DIGITAL SHOWCASE OF WHAT KENYANS CAN IMAGINE, INVENT, DESIGN, BUILD, WRITE, PERFORM AND ACHIEVE. ADD TO THE EXISTING WEBSITE ONLY. DO NOT REBUILD IT. MAKE THE FEATURES REAL AND FUNCTIONAL.

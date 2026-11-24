@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <title>KENYA CREATES — Your Ideas. Your Projects. Your Future. Powered by KenyaOne</title>
+    <meta name="description" content="Kenya's national sovereign innovation platform showcasing ideas, inventions, startups, research, and creative projects across all 47 counties. Powered by KenyaOne." />
+    <meta property="og:title" content="KENYA CREATES — Your Ideas. Your Projects. Your Future" />
+    <meta property="og:description" content="Discover, back, and build homegrown Kenyan inventions from all 47 counties with the KenyaOne AI Co-Founder Studio and 3D WebXR Exhibition Dome." />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <!-- Google Fonts & Sora Variable Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Space+Grotesk:wght@400;500;600;700&family=Sora:wght@100..800&display=swap" rel="stylesheet">
+
+    <!-- Tailwind CSS CDN for 2D DOM Overlay -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            fontFamily: {
+              sans: ['Sora', 'Plus Jakarta Sans', 'system-ui', 'sans-serif'],
+              display: ['Space Grotesk', 'Sora', 'sans-serif'],
+            },
+            colors: {
+              kenya: {
+                green: '#008542',
+                red: '#bb1133',
+                gold: '#f59e0b',
+                dark: '#030712',
+              }
+            }
+          }
+        }
+      }
+    </script>
+    <link rel="stylesheet" href="/src/index.css" />
+  </head>
+  <body class="bg-[#02060f] text-white antialiased overflow-x-hidden selection:bg-emerald-500 selection:text-white">
+    <!-- Main 2D Web Application Container -->
+    <div id="root"></div>
+
+    <!-- Floating 3D Spatial Dome Mode Toggle -->
+    <div class="fixed bottom-6 right-6 z-50">
+      <button 
+        id="btnToggle3DMode"
+        class="group flex items-center gap-2.5 px-5 py-3 rounded-full bg-gradient-to-r from-emerald-600 via-teal-600 to-indigo-600 hover:from-emerald-500 hover:to-indigo-500 text-white font-bold text-xs sm:text-sm shadow-2xl shadow-emerald-500/40 border border-white/20 transition-all duration-300 transform hover:scale-105 active:scale-95 backdrop-blur-xl"
+        title="Toggle between 2D Sovereign Web Platform and 3D WebXR Spatial Exhibition Dome"
+      >
+        <span class="w-2.5 h-2.5 rounded-full bg-emerald-300 animate-pulse"></span>
+        <span id="spatialBtnLabel">Enter 3D Spatial Dome 🪐</span>
+      </button>
+    </div>
+
+    <!-- Application Script Entry Point -->
+    <script type="module" src="/src/index.ts"></script>
+  </body>
+</html>

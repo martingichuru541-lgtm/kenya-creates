@@ -1,0 +1,8 @@
+{
+  "name": "Kenya Creates",
+  "description": "Kenya's national digital platform for showcasing ideas, innovations, startups, research, community initiatives, and creative projects across all 47 counties.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,1443 @@
+# MASTER BUILD PROMPT — KENYA CREATES
+
+## PRODUCT NAME
+KENYA CREATES
+
+**Tagline:** YOUR IDEAS. YOUR PROJECTS. YOUR FUTURE.  
+**National message:** Kenya's home for ideas, innovation, creativity and projects.
+
+## 1. YOUR ROLE
+
+Act as a world-class product development team consisting of:
+- Senior full-stack software engineers.
+- UI/UX designers.
+- AI engineers.
+- Database architects.
+- Cybersecurity engineers.
+- Marketplace developers.
+- Startup ecosystem specialists.
+- Product managers.
+
+Build a complete, production-oriented, fully functional website called **KENYA CREATES**.
+
+This must be a working digital platform, not a static landing page, visual prototype, mockup or non-functional demonstration.
+
+All navigation, buttons, forms, dashboards, filters, uploads, account functions, project submissions, search, notifications and administrative functions must work.
+
+Do not create a website that only looks functional. Implement the backend, database, authentication, permissions, validation, storage and application logic.
+
+Where an external integration requires credentials, create a working integration architecture and clearly identify the configuration required. Never pretend an integration is active when it is not.
+
+---
+
+## 2. THE VISION
+
+KENYA CREATES is a national digital platform that gives every Kenyan an opportunity to showcase what they are creating, developing, inventing, researching, building or planning.
+
+A person should be able to submit an idea from a village in Turkana, a startup from Nairobi, a farming innovation from Murang'a, an engineering project from Kiambu, an artistic creation from Mombasa or a research project from a Kenyan university.
+
+It should also welcome Kenyans living abroad who want to contribute ideas, projects, skills, investment or expertise to Kenya.
+
+The platform must make it possible for:
+- A young person with an idea to showcase it.
+- An inventor to present a prototype.
+- A student to publish a school or university project.
+- An entrepreneur to showcase a startup.
+- A farmer to present an agricultural innovation.
+- A community to showcase a development initiative.
+- A researcher to present research and discoveries.
+- An artist to display creative work.
+- A developer to showcase software and technology.
+- A Kenyan in the diaspora to introduce a project for Kenya.
+- An organisation to showcase its initiatives and seek collaborators.
+
+KENYA CREATES must be open to ordinary citizens, students, professionals, entrepreneurs, companies, universities, community organisations, innovators and institutions.
+
+It must not be limited to people who already own registered companies.
+
+---
+
+## 3. WEBSITE DESIGN AND USER EXPERIENCE
+
+Create a premium, futuristic, internationally competitive digital platform.
+
+Design direction:
+- Modern, clean and sophisticated.
+- Premium glass-inspired interface.
+- Subtle liquid-glass surfaces and depth.
+- Elegant animations and transitions.
+- Beautiful project presentation cards.
+- Interactive maps.
+- Modern typography.
+- Excellent mobile experience.
+- Responsive desktop, tablet and mobile layouts.
+- Accessible colour contrast and readable text.
+- Fast loading and optimised images.
+
+Use Kenya-inspired colours carefully, without making the entire website look like a government portal.
+
+The interface should feel like a combination of:
+- A global innovation exhibition.
+- A startup discovery platform.
+- A creative portfolio network.
+- A project marketplace.
+- A national innovation directory.
+
+Use high-quality icons and visual components. Avoid excessive animation, clutter, unnecessary gradients and oversized elements.
+
+The website must have its own independent identity while displaying a subtle **Powered by KenyaOne** attribution.
+
+---
+
+## 4. MAIN WEBSITE NAVIGATION
+
+Create the following main navigation:
+
+1. Home
+2. Explore Projects
+3. Ideas & Innovations
+4. Startups & Businesses
+5. Community Projects
+6. Research & Discoveries
+7. Creative Works
+8. Find Collaborators
+9. Opportunities
+10. About Kenya Creates
+
+Include:
+- Search bar.
+- Sign In.
+- Create Account.
+- Submit a Project button.
+- User profile menu.
+- Notifications.
+- Responsive mobile navigation.
+
+Create a separate dashboard for logged-in users.
+
+---
+
+## 5. HOMEPAGE
+
+Build a complete homepage containing the following sections.
+
+### Hero section
+
+Main headline:
+
+**KENYA IS FULL OF IDEAS. LET THE WORLD SEE THEM.**
+
+Supporting text:
+
+"From groundbreaking innovations and promising startups to community projects and creative talent, Kenya Creates gives every Kenyan a platform to showcase their vision and connect with opportunities."
+
+Primary CTA: **Showcase Your Project**
+
+Secondary CTA: **Explore What Kenyans Are Creating**
+
+Include a live platform statistics section displaying actual database-derived figures:
+- Projects published.
+- Ideas submitted.
+- Counties represented.
+- Creators registered.
+- Collaborations initiated.
+- Opportunities published.
+
+Never fabricate statistics. Display zero or a clearly labelled empty state until real data exists.
+
+### Featured projects
+
+Display selected projects using attractive cards with:
+- Project cover image.
+- Name.
+- Short description.
+- Category.
+- County.
+- Creator.
+- Project development stage.
+- Publication date.
+- Verification status, if applicable.
+- View Project link.
+
+### Explore by category
+
+Create category tiles for:
+- Technology and AI.
+- Agriculture and food security.
+- Healthcare and medical innovation.
+- Education.
+- Engineering and manufacturing.
+- Environment and climate.
+- Renewable energy.
+- Transport and logistics.
+- Construction and infrastructure.
+- Business and entrepreneurship.
+- Finance and fintech.
+- Tourism and hospitality.
+- Arts and entertainment.
+- Fashion and design.
+- Film and photography.
+- Music.
+- Sports.
+- Community development.
+- Social impact.
+- Research and science.
+- Student innovations.
+- Other ideas.
+
+### Explore by county
+
+Create an interactive Kenya map with all 47 counties.
+
+Users should be able to select a county and view projects associated with it.
+
+Display project counts derived from published database records.
+
+Allow projects to be associated with:
+- County.
+- Sub-county.
+- Ward.
+- Town or locality.
+
+Do not require users to disclose their private residential address.
+
+### Other homepage sections
+
+Include:
+- Recently published projects.
+- Most viewed projects.
+- Most followed creators.
+- Emerging innovations.
+- Projects seeking collaborators.
+- Projects seeking investment.
+- Student innovation showcase.
+- Diaspora innovation showcase.
+- Community development projects.
+- Featured creative works.
+- Recently published opportunities.
+- Join the Kenya Creates community.
+
+All homepage content must be connected to real database records and configurable through the administrator dashboard.
+
+---
+
+## 6. PROJECT SUBMISSION SYSTEM
+
+This is the most important feature of Kenya Creates.
+
+Build a complete, multi-step project submission system.
+
+The user must be able to submit a project without owning a registered company.
+
+### Step 1: Project identity
+
+Fields:
+- Project name.
+- Short tagline.
+- Detailed project description.
+- Project category.
+- Subcategory.
+- Project location.
+- County.
+- Sub-county.
+- Ward, optional.
+- Project website, optional.
+- Social media links, optional.
+- Year started.
+- Project language.
+
+### Step 2: Project stage
+
+Allow the user to select:
+
+1. Just an idea.
+2. Research and planning.
+3. Concept development.
+4. Design stage.
+5. Prototype in development.
+6. Prototype completed.
+7. Testing and validation.
+8. Pilot project.
+9. Operational project.
+10. Growing or expanding.
+11. Completed project.
+
+### Step 3: Upload project materials
+
+Allow uploads of:
+- Project logo.
+- Cover photograph.
+- Multiple photographs.
+- Project videos.
+- PDF documents.
+- Presentations.
+- Business plans.
+- Research papers.
+- Technical drawings.
+- Product demonstrations.
+- Prototype documentation.
+- Supporting documents.
+
+Allow users to provide YouTube or other permitted video links.
+
+Implement file type validation, file size limits, malware scanning where supported, secure storage and access permissions.
+
+### Step 4: What does the creator need?
+
+Allow multiple selections:
+
+- Funding.
+- Investors.
+- Business partners.
+- Technical expertise.
+- Developers.
+- Engineers.
+- Designers.
+- Mentors.
+- Research partners.
+- Manufacturing support.
+- Distribution.
+- Marketing.
+- Customers.
+- Volunteers.
+- Government or institutional support.
+- Community participation.
+- General exposure.
+- No support currently required.
+
+Allow a custom explanation.
+
+### Step 5: Intellectual property and publication
+
+Ask the creator to confirm:
+- They have the right to submit the uploaded materials.
+- They understand that publishing makes selected project information publicly visible.
+- They understand that Kenya Creates does not automatically own their ideas or intellectual property.
+- They have reviewed what information they are publishing.
+- They accept the platform's terms and privacy policy.
+
+Allow users to select:
+- Public project.
+- Limited public profile with restricted contact information.
+- Private draft, visible only to the creator.
+
+Clearly explain that publishing an idea does not provide a patent, copyright registration, confidentiality agreement or guaranteed legal protection.
+
+### Step 6: Preview and submit
+
+Show a full preview before submission.
+
+Allow the creator to:
+- Save draft.
+- Edit.
+- Submit for review.
+- Cancel.
+
+After submission, show a tracking status:
+
+- Draft.
+- Submitted.
+- Under review.
+- Changes requested.
+- Approved.
+- Published.
+- Rejected.
+- Archived.
+
+Send in-app notifications when the status changes.
+
+---
+
+## 7. DIFFERENT TYPES OF SUBMISSIONS
+
+Do not force every submission into a traditional business-project template.
+
+Create separate submission experiences for the following.
+
+### A. Ideas
+
+For people who have an idea but have not yet developed it.
+
+Fields:
+- Idea title.
+- Problem being solved.
+- Proposed solution.
+- Who benefits.
+- Why it matters.
+- Current development stage.
+- What assistance is needed.
+
+### B. Innovations and inventions
+
+For:
+- New products.
+- Engineering solutions.
+- Technology.
+- Software.
+- Scientific inventions.
+- Agricultural innovations.
+- Medical innovations.
+- Manufacturing solutions.
+
+Include prototype photographs, diagrams and technical documents.
+
+### C. Startups and businesses
+
+For:
+- New businesses.
+- Existing startups.
+- Growing companies.
+- Social enterprises.
+- Small businesses.
+- Innovative business models.
+
+Include:
+- Business name.
+- Business description.
+- Founder.
+- Industry.
+- Location.
+- Registration status, optional.
+- Website.
+- Product or service.
+- Development stage.
+- Funding requirements.
+- Partnership interests.
+
+Do not require registration certificates for ordinary idea submissions.
+
+### D. Community and development projects
+
+For:
+- School improvement projects.
+- Water projects.
+- Community infrastructure.
+- Environmental initiatives.
+- Youth development.
+- Women's initiatives.
+- Healthcare outreach.
+- Agricultural development.
+- Local economic development.
+
+Include:
+- Beneficiary community.
+- County and locality.
+- Project objective.
+- Beneficiaries.
+- Estimated budget, optional.
+- Current funding.
+- Progress.
+- Photographs.
+- Organisations involved.
+- Support required.
+
+### E. Research and discoveries
+
+For:
+- Academic research.
+- Scientific studies.
+- Student research.
+- University projects.
+- Publications.
+- Theses and dissertations.
+- New discoveries.
+- Technical research.
+
+Include:
+- Research title.
+- Abstract.
+- Institution, optional.
+- Authors.
+- Research field.
+- Publication status.
+- Document upload.
+- DOI or publication link, if available.
+
+Clearly distinguish published research from unpublished submissions.
+
+### F. Creative works
+
+For:
+- Art.
+- Photography.
+- Fashion.
+- Music.
+- Film.
+- Graphic design.
+- Architecture.
+- Writing.
+- Crafts.
+- Digital content.
+
+Create attractive media galleries and creator portfolios.
+
+Respect copyright and ownership rights. Users must only upload material they own or are authorised to share.
+
+### G. Student projects
+
+For:
+- Primary school innovations.
+- Junior school projects.
+- Senior school projects.
+- University projects.
+- TVET projects.
+- Science exhibitions.
+- Engineering projects.
+- Programming.
+- Robotics.
+- Agricultural experiments.
+
+Provide appropriate child safety protections, parental or guardian consent where legally required, and restrictions on publicly exposing children's personal information.
+
+---
+
+## 8. INDIVIDUAL CREATOR PROFILES
+
+Every registered user must have a creator profile.
+
+Profile information:
+- Display name.
+- Profile photograph or avatar.
+- Short biography.
+- County or country of residence.
+- Professional field.
+- Skills.
+- Areas of interest.
+- Portfolio.
+- Published projects.
+- Collaborations.
+- Achievements.
+- Website and social links, optional.
+
+Create a public profile URL.
+
+Example:
+
+`/creators/username`
+
+Allow users to:
+- Edit their profile.
+- Choose what information is public.
+- Follow other creators.
+- View followers.
+- Receive collaboration requests.
+- Display selected projects.
+- Hide private information.
+
+Do not publicly expose email addresses, telephone numbers, private residential addresses or identity documents.
+
+---
+
+## 9. INDIVIDUAL PROJECT PAGES
+
+Every approved and published project must have its own dedicated page.
+
+Example:
+
+`/projects/project-name`
+
+Include:
+- Project cover.
+- Project title.
+- Category.
+- Description.
+- Creator profile.
+- Project stage.
+- Location.
+- Project objectives.
+- Problem being solved.
+- Proposed solution.
+- Development progress.
+- Gallery.
+- Videos.
+- Documents.
+- Skills required.
+- Support required.
+- Project updates.
+- Followers.
+- Views.
+- Comments, if enabled.
+- Share functionality.
+- Contact or collaboration request.
+
+Include these action buttons:
+
+- Follow Project.
+- Share Project.
+- Contact Creator.
+- Offer Collaboration.
+- Express Interest.
+- Report Project.
+
+Only display contact methods that the creator has chosen to make available.
+
+---
+
+## 10. PROJECT PROGRESS AND UPDATES
+
+Creators should be able to publish updates to their projects.
+
+For example:
+- We have completed our first prototype.
+- We have secured our first customer.
+- We are conducting field tests.
+- We are looking for a software developer.
+- We have expanded to another county.
+- We have completed our community water project.
+
+Every update should include:
+- Update title.
+- Description.
+- Date.
+- Images or documents, optional.
+- Progress stage.
+- Visibility setting.
+
+Display project updates in chronological order.
+
+Allow users to follow projects and receive notifications when important updates are published.
+
+---
+
+## 11. COLLABORATION CENTRE
+
+Build a working system connecting creators with people who can help them.
+
+Users should be able to publish collaboration requests such as:
+
+- Looking for a software developer.
+- Looking for an engineer.
+- Looking for an investor.
+- Looking for a marketing partner.
+- Looking for a researcher.
+- Looking for a manufacturer.
+- Looking for a distributor.
+- Looking for a mentor.
+- Looking for volunteers.
+- Looking for a business partner.
+
+Each request should include:
+- Project.
+- Skills required.
+- Description.
+- Type of collaboration.
+- Location or remote preference.
+- Paid, unpaid or negotiable.
+- Duration, optional.
+- Application deadline, optional.
+
+Build a functional application system.
+
+Users can:
+- Apply.
+- Send a proposal.
+- Review applications.
+- Accept or decline requests.
+- Communicate through a secure platform messaging system.
+
+Implement blocking, reporting, spam prevention and moderation.
+
+Do not disclose personal contact information automatically.
+
+---
+
+## 12. OPPORTUNITIES CENTRE
+
+Build a dedicated opportunities directory.
+
+Categories:
+- Grants.
+- Competitions.
+- Innovation challenges.
+- Startup accelerators.
+- Incubators.
+- Scholarships.
+- Research funding.
+- Fellowships.
+- Mentorship programmes.
+- Investor opportunities.
+- Government programmes.
+- County development opportunities.
+- Corporate partnerships.
+- Training.
+- Exhibitions.
+- Innovation events.
+
+Every opportunity should have:
+- Title.
+- Provider.
+- Description.
+- Eligibility.
+- Requirements.
+- Application deadline.
+- Location.
+- Website or application link.
+- Funding amount, if verified.
+- Category.
+- Publication date.
+- Verification status.
+
+Allow the administrator and authorised partners to publish opportunities.
+
+Clearly label opportunities that have not been independently verified.
+
+Never invent grants, funding amounts, deadlines or partnerships.
+
+---
+
+## 13. INVESTOR AND FUNDING DISCOVERY
+
+Create an investor discovery section.
+
+Allow eligible organisations, investors and funding providers to create profiles and publish their investment interests.
+
+Include:
+- Investor profile.
+- Investment sectors.
+- Geographic interests.
+- Preferred project stage.
+- Funding range, optional.
+- Investment approach.
+- Contact preferences.
+- Application requirements.
+
+Creators should be able to indicate whether they are seeking:
+- Grants.
+- Donations.
+- Equity investment.
+- Loans.
+- Strategic partnerships.
+- Corporate sponsorship.
+- Crowdfunding.
+- In-kind support.
+
+Build an expression-of-interest process.
+
+Important safeguards:
+- Do not promise funding.
+- Do not guarantee investment.
+- Do not present Kenya Creates as an investment adviser.
+- Do not execute investments or hold investor funds.
+- Require appropriate verification for investor accounts.
+- Provide risk warnings and clear disclosure.
+- Any future investment transactions must use properly authorised and legally compliant partners.
+
+---
+
+## 14. SEARCH AND DISCOVERY ENGINE
+
+Build a powerful search system.
+
+Search by:
+- Project name.
+- Description.
+- Creator.
+- Category.
+- County.
+- Sub-county.
+- Development stage.
+- Skills needed.
+- Funding requirements.
+- Opportunities.
+- Institution.
+- Industry.
+
+Filters:
+- Newest.
+- Recently updated.
+- Most viewed.
+- Most followed.
+- County.
+- Category.
+- Stage.
+- Seeking funding.
+- Seeking collaborators.
+- Student projects.
+- Diaspora projects.
+
+Include sorting, pagination, empty states and responsive search results.
+
+Add intelligent AI-powered discovery when configured.
+
+AI should recommend relevant projects based on a user's interests and selected skills.
+
+Recommendations must not discriminate or secretly prioritise paid listings.
+
+---
+
+## 15. KENYA CREATES AI ASSISTANT
+
+Create an optional AI assistant called:
+
+**KENYA CREATES AI**
+
+The assistant should help users develop and present their ideas.
+
+Capabilities:
+
+1. Help users turn rough ideas into structured project proposals.
+2. Identify the problem their idea solves.
+3. Help improve project descriptions.
+4. Generate project titles and summaries.
+5. Help create realistic development roadmaps.
+6. Suggest skills and team members needed.
+7. Help draft business plans.
+8. Help structure budgets and cost estimates.
+9. Help identify potential risks.
+10. Help prepare investor presentations.
+11. Help prepare grant applications.
+12. Help write project updates.
+13. Recommend relevant categories.
+14. Help identify possible collaborators.
+15. Explain intellectual property concepts at a general educational level.
+16. Help students present their projects.
+17. Translate project descriptions between English and Kiswahili.
+
+AI must distinguish estimates from verified facts.
+
+It must not:
+- Invent investors.
+- Invent funding programmes.
+- Guarantee success.
+- Claim patents have been granted.
+- Claim that an idea is legally protected.
+- Fabricate research or statistics.
+- Submit projects without user confirmation.
+
+Use Gemini through a secure backend. Never expose API keys in frontend source code.
+
+Include AI usage limits and cost monitoring.
+
+---
+
+## 16. DIASPORA INNOVATION
+
+Create a special section:
+
+**KENYANS ABROAD. IDEAS FOR KENYA.**
+
+Allow Kenyans living outside Kenya to:
+- Submit projects.
+- Showcase innovations.
+- Introduce businesses.
+- Find Kenyan collaborators.
+- Support projects in their home counties.
+- Find local manufacturing partners.
+- Share technical expertise.
+- Connect with universities and research institutions.
+- Propose community development initiatives.
+
+Allow location selection:
+- Kenya.
+- Africa.
+- Europe.
+- Middle East.
+- North America.
+- South America.
+- Asia.
+- Oceania.
+- Other.
+
+Do not require users to disclose exact residential addresses.
+
+---
+
+## 17. ORGANISATIONS AND INSTITUTIONAL ACCOUNTS
+
+Support accounts for:
+- Companies.
+- Startups.
+- Universities.
+- Colleges.
+- TVET institutions.
+- Schools.
+- Research institutions.
+- NGOs.
+- Community organisations.
+- County-level organisations.
+- Corporate innovation teams.
+- Incubators.
+- Accelerators.
+
+Organisations should have dedicated profiles.
+
+Allow authorised organisation representatives to:
+- Publish projects.
+- Showcase programmes.
+- Publish opportunities.
+- Recruit collaborators.
+- Display achievements.
+- Manage team members.
+- Manage multiple projects.
+- Respond to applications.
+
+An organisation's verification status must be separate from verification of each project it publishes.
+
+Do not claim an organisation is officially affiliated with the Kenyan government unless this has been verified.
+
+---
+
+## 18. USER DASHBOARD
+
+Build a complete user dashboard.
+
+Sections:
+
+### Overview
+- Total published projects.
+- Drafts.
+- Pending submissions.
+- Project views.
+- Followers.
+- Collaboration requests.
+- Applications.
+- Notifications.
+
+### My Projects
+Create, edit, publish, archive and manage projects.
+
+### My Ideas
+Manage ideas and concepts.
+
+### My Collaborations
+Manage applications and requests.
+
+### My Opportunities
+Save and track opportunities.
+
+### My Messages
+Secure messaging.
+
+### My Profile
+Edit profile and privacy settings.
+
+### My Portfolio
+Showcase selected projects and achievements.
+
+### Account Settings
+Password, authentication, privacy, notification preferences, account deletion and data export.
+
+All dashboard information must be connected to the authenticated user's records.
+
+Users must never be able to access another user's private dashboard records.
+
+---
+
+## 19. ADMINISTRATOR DASHBOARD
+
+Create a powerful independent administrative control centre.
+
+Only authorised administrators can access it.
+
+Features:
+
+### Platform overview
+- Total registered users.
+- New users.
+- Submitted projects.
+- Published projects.
+- Projects awaiting review.
+- Reported content.
+- Collaboration activity.
+- Opportunity activity.
+- Storage usage.
+- AI usage and cost.
+
+### Project management
+- Review submissions.
+- Approve.
+- Reject with reason.
+- Request changes.
+- Edit moderation metadata.
+- Feature projects.
+- Remove content that violates policy.
+- Suspend or restore publication.
+- View moderation history.
+
+### User management
+- Search users.
+- View account status.
+- Suspend accounts.
+- Restore accounts.
+- Handle reports.
+- Manage roles.
+- Review verification requests.
+
+### Categories and counties
+- Manage categories.
+- Manage subcategories.
+- Manage counties.
+- Manage project stages.
+- Manage skills.
+
+### Opportunities
+- Publish.
+- Edit.
+- Verify.
+- Expire.
+- Archive.
+
+### Organisation management
+- Review organisation applications.
+- Verify submitted evidence.
+- Approve or reject verification.
+- Manage organisation representatives.
+
+### Platform settings
+- Homepage featured content.
+- Platform announcements.
+- Terms and policies.
+- Submission rules.
+- File limits.
+- Notification templates.
+- Subscription settings.
+- AI configuration.
+- API settings.
+
+Implement detailed audit logs for administrative actions.
+
+Use role-based permissions. Do not expose admin functions to ordinary users.
+
+---
+
+## 20. PROJECT VERIFICATION AND TRUST
+
+Create a transparent status system:
+
+- **Community Submitted:** Submitted by a user; not independently verified.
+- **Under Review:** Being reviewed by the platform.
+- **Profile Reviewed:** Selected profile information has been checked.
+- **Organisation Verified:** The organisation's identity or registration has been checked using appropriate evidence.
+- **Project Evidence Reviewed:** Specific project evidence has been examined.
+- **Featured:** Selected editorially by Kenya Creates.
+
+Never use a single verification badge to imply that all claims, financial figures, technical results or investment opportunities have been independently validated.
+
+Display exactly what has been checked and when.
+
+Create reporting mechanisms for:
+- Fraud.
+- Impersonation.
+- Intellectual property violations.
+- Misleading claims.
+- Harassment.
+- Spam.
+- Unsafe content.
+- Suspicious investment offers.
+
+Build a moderation workflow.
+
+---
+
+## 21. MESSAGING AND NOTIFICATIONS
+
+Implement secure in-platform communication.
+
+Features:
+- Direct messages.
+- Collaboration requests.
+- Application conversations.
+- Organisation enquiries.
+- Message notifications.
+- Read status.
+- Block user.
+- Report message.
+- Spam controls.
+
+Notifications:
+- Project approved.
+- Project changes requested.
+- Project published.
+- New follower.
+- Collaboration application received.
+- Collaboration application accepted.
+- New message.
+- Opportunity deadline reminder.
+- Project update.
+- Account security alert.
+
+Allow users to control notification preferences.
+
+Use email notifications through a configurable email provider. Do not claim emails are being sent until an email service has been configured and tested.
+
+---
+
+## 22. DATABASE AND BACKEND
+
+Implement a properly structured database.
+
+Recommended entities:
+
+- Users
+- UserProfiles
+- Roles
+- Permissions
+- CreatorProfiles
+- OrganisationProfiles
+- OrganisationMembers
+- Projects
+- ProjectCategories
+- ProjectSubcategories
+- ProjectMedia
+- ProjectDocuments
+- ProjectUpdates
+- ProjectFollowers
+- ProjectViews
+- ProjectCollaborations
+- CollaborationApplications
+- Messages
+- Conversations
+- Notifications
+- Opportunities
+- OpportunityApplications
+- InvestorProfiles
+- FundingInterests
+- SavedProjects
+- Reports
+- ModerationActions
+- VerificationRequests
+- Counties
+- SubCounties
+- Wards
+- Skills
+- UserSkills
+- AIConversations
+- AIUsageRecords
+- Subscriptions
+- Payments
+- AuditLogs
+- PlatformSettings
+
+Use relational data integrity and appropriate indexes.
+
+Implement:
+- Secure authentication.
+- Role-based access control.
+- Row-level or equivalent record permissions.
+- Server-side validation.
+- File upload permissions.
+- Database backups.
+- Error handling.
+- Rate limiting.
+- Logging.
+- Pagination.
+- Secure session management.
+
+Use Firebase Authentication and Firestore or a suitable equivalent, with Cloud Storage for uploads, if supported by the selected Google AI Studio build environment.
+
+Do not store passwords in plaintext.
+
+Keep private records private.
+
+---
+
+## 23. TECHNICAL ARCHITECTURE
+
+Build using a maintainable modern stack.
+
+Preferred frontend:
+- React.
+- TypeScript.
+- Vite.
+- Tailwind CSS.
+- Lucide icons.
+- Framer Motion for controlled animation.
+
+Backend:
+- Secure server-side API.
+- Firebase or PostgreSQL-based data architecture.
+- Secure object storage.
+- Gemini API integration.
+- Email provider adapter.
+- Notification service.
+
+Use environment variables for secrets.
+
+Create separate development and production configurations.
+
+Use reusable components and modular services.
+
+Build a documented REST API.
+
+Suggested API routes:
+
+`/api/auth`
+`/api/users`
+`/api/creators`
+`/api/organisations`
+`/api/projects`
+`/api/projects/:id/updates`
+`/api/projects/:id/follow`
+`/api/projects/:id/collaborate`
+`/api/opportunities`
+`/api/opportunities/:id/apply`
+`/api/messages`
+`/api/notifications`
+`/api/search`
+`/api/ai`
+`/api/admin`
+`/api/analytics`
+
+Apply proper authentication and authorisation to every protected endpoint.
+
+Do not trust frontend permissions alone.
+
+---
+
+## 24. SECURITY, PRIVACY AND LEGAL PROTECTION
+
+Implement security and privacy from the beginning.
+
+Requirements:
+- Kenya Data Protection Act compliance considerations.
+- Appropriate international privacy compliance where relevant.
+- User consent.
+- Privacy controls.
+- Account deletion.
+- Data export.
+- Secure document storage.
+- Protection against common web vulnerabilities.
+- Rate limiting.
+- Abuse prevention.
+- Secure file handling.
+- Audit logs.
+- Data retention policies.
+- Child protection and age-appropriate safeguards.
+- Clear terms of service.
+- Clear privacy policy.
+- Intellectual property policy.
+- Content moderation policy.
+- Reporting and appeals process.
+
+Do not publicly display sensitive personal information.
+
+Do not publish unpublished private documents without the creator's explicit permission.
+
+Provide a clear explanation of what happens when a user makes a project public.
+
+The platform must not claim to register patents, trademarks or copyrights.
+
+Provide educational information about protecting intellectual property and direct users to appropriate professional services for legal advice.
+
+---
+
+## 25. REVENUE AND BUSINESS MODEL
+
+Build a configurable commercial system without making basic participation inaccessible.
+
+Suggested account structure:
+
+### Free
+- Create a profile.
+- Submit projects.
+- Showcase ideas.
+- Upload a limited amount of media.
+- Explore projects.
+- Follow creators.
+- Apply for collaborations.
+
+### Creator Plus
+- Expanded portfolio.
+- More media storage.
+- Advanced project analytics.
+- Enhanced profile customisation.
+- Additional project management tools.
+
+### Organisation
+- Organisation profile.
+- Multiple team members.
+- Multiple projects.
+- Organisation analytics.
+- Opportunity publishing, subject to approval.
+- Collaboration management.
+
+### Institutional and Corporate
+- Custom accounts.
+- Dedicated project showcases.
+- Innovation challenge pages.
+- Corporate collaboration programmes.
+- Institutional dashboards.
+
+Allow administrators to configure prices, plans, benefits, free limits and billing periods.
+
+Do not hardcode prices into the application.
+
+Integrate payments through a supported payment provider such as Paystack or another authorised provider, subject to availability and merchant eligibility.
+
+Include:
+- Subscription management.
+- Payment history.
+- Receipts.
+- Renewal status.
+- Failed payment handling.
+- Cancellation.
+- Refund policy configuration.
+
+Do not store card details directly.
+
+Never charge users simply for being featured without clearly disclosing the arrangement.
+
+Paid promotion must never be confused with independent verification or organic ranking.
+
+---
+
+## 26. FUTURE KENYAONE INTEGRATION
+
+Build Kenya Creates as a standalone product that can later connect to the KenyaOne ecosystem.
+
+The main KenyaOne platform must remain unchanged when integration takes place.
+
+Prepare:
+
+- API-first architecture.
+- Documented authentication endpoints.
+- User identity mapping.
+- SSO-ready authentication.
+- API keys and secure token handling.
+- Webhooks.
+- Project listing endpoints.
+- Creator profile endpoints.
+- Organisation endpoints.
+- Opportunity endpoints.
+- Analytics endpoints.
+- Integration documentation.
+
+The future KenyaOne integration should support:
+
+1. A Kenya Creates division page inside KenyaOne.
+2. Access through KenyaOne navigation.
+3. Secure account linking.
+4. Shared user identity where authorised.
+5. Project discovery inside KenyaOne.
+6. Links between KenyaOne users and creator profiles.
+7. Cross-platform project sharing.
+8. KenyaOne AI integration in the future.
+
+Do not assume that Base44 can directly access this application's database.
+
+Use documented APIs or a secure integration layer.
+
+Do not redesign, remove or modify any existing KenyaOne pages, navigation, branding, functionality, user accounts or database structures as part of preparing this application.
+
+---
+
+## 27. SEO AND PUBLIC DISCOVERY
+
+Implement:
+- Search-engine-friendly project pages.
+- Unique page titles.
+- Meta descriptions.
+- Open Graph previews.
+- Social sharing.
+- Sitemap.
+- Robots.txt.
+- Canonical URLs.
+- Structured data where appropriate.
+- Fast page loading.
+- Accessible page structure.
+
+Allow public projects to be indexed by search engines.
+
+Private drafts and restricted pages must not be indexed.
+
+---
+
+## 28. TESTING AND QUALITY ASSURANCE
+
+Before declaring the platform complete, test the entire application.
+
+Test:
+1. Account creation.
+2. Login and logout.
+3. Password recovery.
+4. Profile creation.
+5. Project submission.
+6. Draft saving.
+7. File uploads.
+8. Project approval.
+9. Project publication.
+10. Project editing.
+11. Project following.
+12. Search and filtering.
+13. County filtering.
+14. Collaboration requests.
+15. Applications.
+16. Messaging.
+17. Notifications.
+18. Opportunities.
+19. Organisation accounts.
+20. Admin permissions.
+21. Reporting.
+22. Account privacy.
+23. Mobile responsiveness.
+24. Payment workflows, if configured.
+25. AI functionality, if configured.
+26. API security.
+27. Error handling.
+
+Fix all critical errors before delivery.
+
+Do not leave buttons that do nothing.
+
+Do not use fake login screens, fake payment success, fabricated statistics or fake integrations.
+
+Where a feature depends on external credentials, provide a clearly labelled configuration state and test instructions.
+
+---
+
+## 29. REQUIRED DELIVERABLES
+
+Deliver a complete working application with:
+
+1. Full responsive frontend.
+2. Functional backend.
+3. Database schema.
+4. Authentication.
+5. User dashboards.
+6. Admin dashboard.
+7. Project submission workflow.
+8. Project discovery and search.
+9. Creator profiles.
+10. Organisation profiles.
+11. Collaboration centre.
+12. Opportunities centre.
+13. Messaging and notifications.
+14. Secure file uploads.
+15. Gemini AI integration architecture.
+16. Payment integration architecture.
+17. REST API documentation.
+18. Environment variable example.
+19. Deployment instructions.
+20. Security documentation.
+21. Testing report.
+22. KenyaOne integration documentation.
+
+Create a professional README explaining how to install, configure, run, test, deploy and maintain the application.
+
+Keep all source code organised and maintainable.
+
+---
+
+## 30. FINAL PRODUCT REQUIREMENT
+
+The final product must feel like Kenya's national exhibition of ideas, innovation, creativity, talent and development projects.
+
+A Kenyan should be able to open the website, create an account, submit an idea, upload a project, publish a portfolio, attract collaborators, discover opportunities and build connections.
+
+A company should be able to discover a new innovation.
+
+A university should be able to showcase student research.
+
+A community should be able to present a development initiative.
+
+A Kenyan living abroad should be able to contribute to a project back home.
+
+An investor should be able to discover promising projects without Kenya Creates guaranteeing their commercial success.
+
+**Build the complete working application, not just the design. Prioritise the project submission and discovery system, secure accounts, creator profiles, database, administration and collaboration workflows.**
+
+Do not stop after generating the homepage. Continue implementing all required pages, backend services, database models, user flows and administrative tools.
+
+If the environment cannot implement a requested integration directly, create the proper modular adapter, document what is missing and do not falsely report it as operational.
+
+The result should be a scalable, professional, secure and independent digital platform ready for real users, with a clear path to future integration into KenyaOne.
